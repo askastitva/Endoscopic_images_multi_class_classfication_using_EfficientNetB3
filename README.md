@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 ```
 
-The requirements.txt specifies the libraries and their versions used in the environment for running the code. The effb3final.ipynb file consists of the source code in form of jupyter notebook. This code was used to train the model and obtain the results. 
+The requirements.txt specifies the libraries and their versions used in the environment for running the code. The effb3final.ipynb file consists of the source code in form of jupyter notebook. This code was used to train the model and obtain the results. The exai_lime.ipynb file contains the interpretability code used in the paper.
 
 ## 📂 Dataset
 This study uses the **Kvasir V2** dataset, which is publicly available on Kaggle:  

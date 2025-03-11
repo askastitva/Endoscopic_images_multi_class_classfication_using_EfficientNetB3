@@ -1,0 +1,22 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+title: "Interpretable Deep Learning for Enhanced Multi-Class Classification of Gastrointestinal Endoscopic Images"
+authors:
+  - name: "Astitva Kamble"
+    affiliation: "ABV-Indian Institute of Information Technology and Management Gwalior"
+  - name: "Vani Bandodkar"
+    affiliation: "ABV-Indian Institute of Information Technology and Management Gwalior"
+  - name: "Saakshi Dharmadhikary"
+    affiliation: "ABV-Indian Institute of Information Technology and Management Gwalior"
+  - name: "Veena Anand"
+    affiliation: "ABV-Indian Institute of Information Technology and Management Gwalior"
+  - name: "Pradyut Kumar Sanki"
+    affiliation: "SRM University, AP, India"
+  - name: "Mei X. Wu"
+    affiliation: "Massachusetts General Hospital, Harvard Medical School, USA"
+  - name: "Biswabandhu Jana"
+    affiliation: "ABV-Indian Institute of Information Technology and Management Gwalior"
+version: 1.0.0
+doi: 10.5281/zenodo.15004991
+date-released: 2025-03-11
+url: "https://github.com/askastitva/Endoscopic_images_multi_class_classfication_using_EfficientNetB3"

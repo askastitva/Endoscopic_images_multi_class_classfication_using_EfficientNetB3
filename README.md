@@ -9,6 +9,9 @@ cd Endoscopic_images_multi_class_classfication_using_EfficientNetB3
 pip install -r requirements.txt
 
 ```
+
+The requirements.txt specifies the libraries and their versions used in the environment for running the code. The effb3final.ipynb file consists of the source code in form of jupyter notebook. This code was used to train the model and obtain the results. 
+
 ## 📂 Dataset
 This study uses the **Kvasir V2** dataset, which is publicly available on Kaggle:  
 🔗 [Kvasir V2 - A Gastrointestinal Tract Dataset](https://www.kaggle.com/datasets/plhalvorsen/kvasir-v2-a-gastrointestinal-tract-dataset)
@@ -36,7 +39,11 @@ If you use this code or dataset in your research, please cite our work as follow
 author = {Astitva Kamble and Vani Bandodkar and Saakshi Dharmadhikary and Veena Anand and Pradyut Kumar Sanki and Mei X. Wu and Biswabandhu Jana},
 title = {Interpretable Deep Learning for Enhanced Multi-Class Classification of Gastrointestinal Endoscopic Images},
 journal = {The Visual Computer},
-year = {2025}}
+year = {2025},
+doi = {https://doi.org/10.5281/zenodo.15004991},
+url = {https://github.com/askastitva/Endoscopic_images_multi_class_classfication_using_EfficientNetB3}
+}
+
 ```
 
 Additionally, please cite the **Kvasir V2 dataset** as follows:
